@@ -329,6 +329,17 @@ section.cta .overlay {
   top: 0;
   left: 0;
 }
+section.documents .feature-item i {
+  font-size: 80px;
+  background: -webkit-linear-gradient(to left, #000000, #000000);
+  background: linear-gradient(to left, #000000, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+section.documents .feature-item {
+  text-align: center;
+  margin-bottom: 100px;
+}
 section.contact {
   text-align: center;
 }
